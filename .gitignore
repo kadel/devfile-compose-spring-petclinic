@@ -15,3 +15,6 @@ build/*
 _site/
 *.css
 !petclinic.css
+
+.odo/odo-file-index.json
+.odo/devstate.json
